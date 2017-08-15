@@ -1,0 +1,17 @@
+/* CSS Document */
+.main_border {border:3px solid #003300;}
+
+body {background:#00FF44;
+font-family:Verdana;
+font-size:14px;
+color:#424242;
+}
+
+
+p {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:13px; color:#424242; margin:15px;}
+a {color:#006600; font-weight:bold;}
+a:hover {color:#000000; text-decoration:none;}
+div {text-align:center; }
+.left{background:#00923F; color:#99FF00; font-weight:bold; }
+.tail {background:#00923F; color:#99FF00; font-weight:bold; text-align:center; font-size:10px;}
+.head {text-align:center; font-size:15px;}
